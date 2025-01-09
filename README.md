@@ -55,6 +55,8 @@ Ensured responsiveness and performance by optimizing DAX queries and limiting da
 
 # Data Model
 
+![Data Model](DataModel.png)
+
 The data model was designed to ensure optimal querying and reporting capabilities. It includes the following components:
 
 Fact_Sales: The central fact table, containing measures like sales (USD), quantity, cost of goods sold (COGS), and gross profit.
