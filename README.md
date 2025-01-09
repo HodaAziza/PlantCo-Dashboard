@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides an interactive and dynamic visualisation of Plant Co.'s performance for 2024/2023. It offers actionable insights into year-to-date (YTD) and prior year-to-date (PYTD) trends across countries, product types, and months, helping stakeholders quickly identify areas of improvement and growth.
 
-See the full dashboard here!- [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMDU3NWU4ZmEtZTdlZi00NGU2LThmNzAtMDhiZjUxZjdhZDkyIiwidCI6ImFlMzg1NGFjLWE2MDYtNDQ3OS1hZWQwLTg3YmExMTYwYTQzMyJ9)
+# See the full dashboard here!- [Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMDU3NWU4ZmEtZTdlZi00NGU2LThmNzAtMDhiZjUxZjdhZDkyIiwidCI6ImFlMzg1NGFjLWE2MDYtNDQ3OS1hZWQwLTg3YmExMTYwYTQzMyJ9)
 
 ![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
