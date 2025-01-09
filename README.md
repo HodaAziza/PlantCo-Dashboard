@@ -9,17 +9,25 @@ See the full dashboard here!- [Power BI Link](https://app.powerbi.com/view?r=eyJ
 # Key Features
 Dynamic Filters and Interactivity: Enables users to filter data by year, gross profit, quantity, or sales for a tailored analysis.
 Comprehensive Visuals:
+
 Treemap: Highlights gross profit distribution by country, allowing for a clear comparison of performance.
+
 Waterfall Chart: Illustrates YTD vs. PYTD gross profit changes by month, identifying increases and decreases.
+
 Combo Chart: Displays gross profit trends and product value segmentation over time.
+
 Scatter Chart with Zoom Slider: Explores account profitability segmentation, showing relationships between gross profit percentage (GP%) and value YTD.
-Data Sources
+
+# Data Sources
 The dashboard was built using data from the Plant_DTS.xls dataset, which includes:
 
 Geographical Data: Profit performance broken down by country.
+
 Time-Series Data: Monthly gross profit, sales, and quantity metrics for 2024 and prior years.
+
 Product Categories: Detailed segmentation into Indoor, Outdoor, and Landscape product types.
-The Journey: Building the Dashboard
+
+# The Journey: Building the Dashboard
 This dashboard was developed with a focus on showcasing my technical expertise in Power BI and delivering actionable insights. Here’s the step-by-step process I followed:
 
 # Data Preparation and Modeling:
