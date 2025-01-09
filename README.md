@@ -38,6 +38,7 @@ Measure Development:
 
 Created custom DAX measures for gross profit analysis and other key performance indicators (KPIs).
 Ensured the measures were dynamic and adaptable to filters applied by users.
+
 Visualizations:
 
 Designed intuitive and aesthetically pleasing visuals, ensuring they communicated insights clearly.
@@ -57,7 +58,26 @@ Ensured responsiveness and performance by optimizing DAX queries and limiting da
 The data model was designed to ensure optimal querying and reporting capabilities. It includes the following components:
 
 Fact_Sales: The central fact table, containing measures like sales (USD), quantity, cost of goods sold (COGS), and gross profit.
+
 Dim_Account: A dimension table with account-specific details such as account ID, country, postal code, and coordinates.
+
 Dim_Product: Captures product information, including product family, group, name, size, and type.
+
 Dim_Date: A date dimension table for temporal analysis, enabling time-based calculations like YTD and PYTD.
+
+# Skills Demonstrated
+Data Transformation and Modeling: Efficient use of Power BI’s modeling capabilities to create virtual tables and relationships.
+
+DAX Expertise: Development of advanced measures to calculate KPIs and improve interactivity.
+
+Visualization Techniques: Effective use of various Power BI visuals to present data clearly and interactively.
+
+Attention to Detail: Focus on formatting, conditional formatting, and user-friendly design.
+
+# Usage
+This dashboard is ideal for:
+
+Business Stakeholders: To gain insights into profitability trends and identify key opportunities.
+
+Data Analysts: To explore profitability patterns and drive data-driven decisions.
 
